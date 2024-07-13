@@ -1,0 +1,33 @@
+@media (max-width:1100px){
+    footer .content .middle{
+       padding-left: 50px; 
+    }
+}
+
+@media (max-width:950px){
+    footer .content .box{
+        width: 50%;
+    } 
+
+    .content .right{
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:560px){
+    footer{
+        position: relative;
+    }
+
+    footer .content .box{
+        width: 100%;
+    }
+
+    footer .content .topic{
+        margin-top: 20px;
+    }
+
+    footer .content .middle{
+        padding-left: 0;
+    }
+}
